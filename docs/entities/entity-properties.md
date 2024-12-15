@@ -188,4 +188,4 @@ Entity can have various aliases with custom entity identifier to use:
 }
 ```
 
-Now, the entity has multiple aliases, and you can use the defined alias identifier through the `summon` command to spawn the entity with the properties set: `/summon ewiki:first_alias` will spawn the entity with the entity property `property:property_index` set to 1.
+Now, the entity has multiple aliases, and you can use the defined alias identifier through the `summon` command to spawn the entity with the properties set: `/summon wiki:first_alias` will spawn the entity with the entity property `property:property_index` set to 1.
